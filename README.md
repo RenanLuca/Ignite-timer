@@ -38,7 +38,7 @@ No módulo 2 do curso Ignite, desenvolvemos um projeto notável: um timer versá
 
 ##  🖼 Confira a Demo
 
-<p> <a href="https://to-do-list-delta-ashy.vercel.app" target="_blank"> Confira o site </a> </p>
+<p> <a href="https://ignite-timer-gules-three.vercel.app" target="_blank"> Confira o site </a> </p>
 
 ## 🔧 Como rodar
 
