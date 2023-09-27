@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="./src/assets/ignite-logo.svg" />
+ <img src="/public/assets/ignite-logo.svg" />
 </h1>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
