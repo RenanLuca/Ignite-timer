@@ -1,5 +1,6 @@
 <h1 align="center">
  <img src="/public/assets/ignite-logo.svg" />
+ IGNITE TIMER
 </h1>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
