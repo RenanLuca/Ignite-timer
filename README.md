@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="./src/assets/preview.png">
+<img src="/public/assets/preview.png">
 
 
 
